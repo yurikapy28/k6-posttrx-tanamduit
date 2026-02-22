@@ -48,10 +48,14 @@ k6-posttrx-tanamduit/
 │   └── k6-dashboard.html
 │
 ├── screenshots/           # dashboard result screenshots
+│   ├── k6-summary.png
+│   ├── k6-summary2.png
+│   ├── k6-summary3.png
+│   ├── k6-summary4.png
+│   └── k6-summary5.png
 │
 └── README.md
 ```
-
 ---
 
 ## 🛠 How To Run

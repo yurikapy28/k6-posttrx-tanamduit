@@ -196,7 +196,7 @@ Potential root causes:
 
 ## 👩‍💻 Author
 
-**Yurika Pristyani**  
+**Yurika Prisilia**  
 Performance Testing | QA Engineering | Backend Validation  
 
 ---

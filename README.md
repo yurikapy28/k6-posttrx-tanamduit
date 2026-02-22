@@ -166,6 +166,27 @@ Under stress conditions (100 VUs for 3 minutes):
 - Optimize transaction handling
 - Implement better error handling & retry logic
 - Consider horizontal scaling
+- Implement DB indexing improvements
+- Enable connection pooling tuning
+- Add caching layer
+- Optimize transaction validation logic
+- Consider horizontal scaling
+
+---
+
+## 🔍 Performance Analysis
+
+Under 100 VUs load:
+
+- Average response time increased to ~3 seconds.
+- p95 exceeded SLA threshold significantly (7–9s).
+- Error rate peaked at 35%.
+- System showed signs of resource bottleneck under concurrency.
+
+Potential root causes:
+- Database contention
+- Insufficient connection pooling
+- Blocking synchronous operations
 
 ---
 

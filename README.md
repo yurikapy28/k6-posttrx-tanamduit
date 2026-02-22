@@ -58,10 +58,10 @@ Database: SQL Server
 ![Overview](screenshots/k6-summary.png)
 
 ### Summary Metrics
-![Summary](screenshots/k6-summary3.png.png)
+![Summary](screenshots/k6-summary5.png)
 
 ### Timing Breakdown
-![Timings](screenshots/k6-summary5.png)
+![Timings](screenshots/k6-summary3.png)
 
 ---
 

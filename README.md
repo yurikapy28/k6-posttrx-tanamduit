@@ -1,4 +1,4 @@
-# 🚀 K6 Stress Test – PostTrx Tanamduit
+<img width="431" height="191" alt="image" src="https://github.com/user-attachments/assets/5a8465df-ada2-42c8-b5bc-94b203cee40f" /># 🚀 K6 Stress Test – PostTrx Tanamduit
 
 ## 📌 Overview
 
@@ -55,13 +55,13 @@ Database: SQL Server
 ## 📈 Result Screenshots
 
 ### Dashboard Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/k6-summary.png)
 
 ### Summary Metrics
-![Summary](screenshots/summary.png)
+![Summary](screenshots/k6-summary3.png.png)
 
 ### Timing Breakdown
-![Timings](screenshots/timings.png)
+![Timings](screenshots/k6-summary5.png)
 
 ---
 
